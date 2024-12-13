@@ -1,0 +1,17 @@
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\bin\Release\net6.0-windows\Hotkey.exe
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\bin\Release\net6.0-windows\Hotkey.deps.json
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\bin\Release\net6.0-windows\Hotkey.runtimeconfig.json
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\bin\Release\net6.0-windows\Hotkey.dll
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\bin\Release\net6.0-windows\Hotkey.pdb
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\Hotkey.csproj.AssemblyReference.cache
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\Hotkey.HotKey.resources
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\Hotkey.csproj.GenerateResource.cache
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\Hotkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\Hotkey.AssemblyInfoInputs.cache
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\Hotkey.AssemblyInfo.cs
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\Hotkey.csproj.CoreCompileInputs.cache
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\Hotkey.dll
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\refint\Hotkey.dll
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\Hotkey.pdb
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\Hotkey.genruntimeconfig.cache
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\obj\Release\net6.0-windows\ref\Hotkey.dll

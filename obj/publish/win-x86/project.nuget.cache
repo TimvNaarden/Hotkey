@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pezgccLhx+aSygQZXj4he1Xal9KBxT1KNyb+LFDSCCA283MlDL4lAPVsEWnpFqgpFzHT82xC0+Y7CJ7sNOEe6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timva\\OneDrive\\Progammeren\\C#\\Hotkey\\Hotkey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timva\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.10\\microsoft.netcore.app.runtime.win-x86.6.0.10.nupkg.sha512",
+    "C:\\Users\\timva\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.10\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.10.nupkg.sha512",
+    "C:\\Users\\timva\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.10\\microsoft.aspnetcore.app.runtime.win-x86.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

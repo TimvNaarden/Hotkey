@@ -1,0 +1,5 @@
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\bin\publish\Hotkey.exe
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\bin\publish\Hotkey.dll
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\bin\publish\Hotkey.deps.json
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\bin\publish\Hotkey.runtimeconfig.json
+C:\Users\timva\OneDrive\Progammeren\C#\Hotkey\bin\publish\Hotkey.pdb
